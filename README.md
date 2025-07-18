@@ -19,7 +19,7 @@ Built with ❤️ in Golang by [@Caliginous_0](https://t.me/Caliginous_0)
 Clone the repository and run the project using Go:
 
 ```bash
-git clone https://github.com/yourusername/sap-press-dl.git
+git clone https://github.com/mohamedhani1/SAP-Press.git
 cd sap-press-dl
 go run main.go
 ````
