@@ -1,4 +1,4 @@
-📚 SapPress-DL
+📚 SapPress-DL (sap-press downloader)
 
 Download True EPUB Books from [SAP PRESS](https://www.sap-press.com/)
 Built with ❤️ in Golang by [@Caliginous_0](https://t.me/Caliginous_0)
