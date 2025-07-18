@@ -1,14 +1,11 @@
-Sure! Here's the complete `README.md` content ready for copy-paste:
+📚 SapPress-DL
 
-````markdown
-# 📚 SapPress-DL
-
-**Download True EPUB Books from [SAP PRESS](https://www.sap-press.com/)**  
+Download True EPUB Books from [SAP PRESS](https://www.sap-press.com/)
 Built with ❤️ in Golang by [@Caliginous_0](https://t.me/Caliginous_0)
 
 ---
 
-## ✨ Features
+✨ Features
 
 - 📥 Download real EPUB books from sap-press.com
 - ⚡ Multi-threaded downloading for speed (default: 16 threads)
@@ -17,7 +14,7 @@ Built with ❤️ in Golang by [@Caliginous_0](https://t.me/Caliginous_0)
 
 ---
 
-## 🛠️ Installation
+🛠️ Installation
 
 Clone the repository and run the project using Go:
 
@@ -36,9 +33,9 @@ go build -o SapPress-DL main.go
 
 ---
 
-## 🚀 Usage
+🚀 Usage
 
-### General Help
+General Help
 
 ```bash
 SapPress-DL --help
@@ -64,7 +61,7 @@ GLOBAL OPTIONS:
 
 ---
 
-### 📘 Download a Book
+📘 Download a Book
 
 ```bash
 SapPress-DL download --bookid <BOOK_ID>
@@ -82,7 +79,7 @@ Example:
 SapPress-DL download --bookid 12345 --threads 8
 ```
 
-#### Help for `download` command
+Help for `download` command
 
 ```bash
 SapPress-DL download --help
@@ -103,19 +100,13 @@ OPTIONS:
 
 ---
 
-## 🧑‍💻 Author
+🧑‍💻 Author
 
 * Telegram: [@Caliginous\_0](https://t.me/Caliginous_0)
 
 ---
 
-## ⚖️ License
-
-This project is licensed under the MIT License.
-
----
-
-## ⭐️ Star This Repo
+⭐️ Star This Repo
 
 If you find this project useful, please consider giving it a ⭐️!
 
