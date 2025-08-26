@@ -110,7 +110,3 @@ OPTIONS:
 
 If you find this project useful, please consider giving it a ⭐️!
 
-```
-
-Let me know if you'd like a matching `LICENSE` file or a Go-based `main.go` skeleton.
-```
